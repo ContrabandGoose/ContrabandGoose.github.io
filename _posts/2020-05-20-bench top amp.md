@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "Bench Top Amplifier Project"
+date: 2020-05-20
+tags: [CAD, solidworks, kicad,]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Small form factor Amplifier utilising PCB's designed in KiCad"
 mathjax: "true"
 ---
 
@@ -49,6 +49,9 @@ head(df)
 ```
 
 Here's some inline code `x+y`.
+
+<iframe src="{{ site.url }}{{ site.baseurl }}/project files/Harting Cable/Harting cable Model.pdf alt="3D pdf of a harting cable assembly">
+
 
 Here's an image:
 <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">

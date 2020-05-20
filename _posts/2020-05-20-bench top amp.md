@@ -53,7 +53,7 @@ Here's some inline code `x+y`.
 <iframe src="{{ site.url }}{{ site.baseurl }}/project files/Harting Cable/Harting cable Model.pdf" alt="3D pdf of a harting cable assembly"></iframe>
 
 Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/project files/Harting Cable/Harting cable Model.pdf" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/project files/Harting Cable/Harting cable Model.pdf" alt="some text"  width="4200" height="4200">
 
 Here's an image:
 <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">

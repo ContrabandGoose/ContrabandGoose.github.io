@@ -17,7 +17,7 @@ Below is a pdf of the drawing.
 
 <image src="{{ site.url }}{{ site.baseurl }}/project files/Harting Cable/Harting cable Drawing.PDF">
 
-
+<embed src="{{ site.url }}{{ site.baseurl }}/project files/Harting Cable/Harting cable Drawing.PDF" type="application/pdf">
 
 
 

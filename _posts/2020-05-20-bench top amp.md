@@ -72,3 +72,7 @@ You can also put it inline $$z=x+y$$
 <object width="400" height="500" type="application/pdf" data="/project files/Harting Cable/Harting cable Model.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
     <p>Insert your error message here, if the PDF cannot be displayed.</p>
 </object>
+
+
+
+<embed type="image/jpg" src="{{ site.url }}{{ site.baseurl }}/project files/2903-01.wrl" width="300" height="200">

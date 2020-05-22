@@ -4,7 +4,7 @@ date: 2020-05-20
 tags: [CAD, solidworks, Wiring]
 header:
   image: "/project files/Harting Cable/harting cable.jpg"
-excerpt: "Assembly of a power supply cable using Harting modular plugs"
+excerpt: "Assembly of a power supply cable using Harting modular connectors"
 mathjax: "true"
 ---
 

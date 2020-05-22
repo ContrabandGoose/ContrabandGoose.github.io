@@ -15,7 +15,7 @@ This is a assembly model i put together making use of exploded views and hidden 
 
 Below is a pdf of the drawing. 
 
-<image src="{{ site.url }}{{ site.baseurl }/project files/Harting Cable/Harting cable Drawing.PDF">
+<image src="{{ site.url }}{{ site.baseurl }}/project files/Harting Cable/Harting cable Drawing.PDF">
 
 
 

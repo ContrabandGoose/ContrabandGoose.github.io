@@ -22,7 +22,7 @@ I've provided a step model. Unfortunately I'm still looking for a simple solutio
 
 ## Drawing
 
-<embed src="{{ site.url }}{{ site.baseurl }}/project files/Bench Top Amplifier/Control PCB.PDF" type="application/pdf" width='800' height='600'>
+<embed src="{{ site.url }}{{ site.baseurl }}/project files/Bench Top Amplifier/Control PCB.PDF" type="application/pdf" width='800' height='700'>
 
 
 

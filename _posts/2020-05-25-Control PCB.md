@@ -13,7 +13,7 @@ This was the first PCB i worked on. I started out with just a circuit diagram an
 
 ## Model
 
-I've provided a step model. Unfortunately I'm still looking for a simple solution to export KiCad PCB's into Solidworks, I've been plotting DXF's from KiCad then importing them into Solidworks but the traces have so many conturs that usually solidworks crashes trying to extrude the profiles. For now I use a black PCB with the right hole locations to provide the most accurate assembly drawing.
+I've provided a step model. Unfortunately I'm still looking for a simple solution to export KiCad PCB's into Solidworks, I've been plotting DXF's from KiCad then importing them into Solidworks but the traces have so many contours that usually solidworks crashes trying to extrude the profiles. For now I use a blanck PCB's with the right hole locations to provide the most accurate assembly drawing.
 
 <html>
   <iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=1352939&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='800' height='600'></iframe><br/><a href='https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1352939'>Download</a>

@@ -1,9 +1,9 @@
 ---
 title: "Control PCB"
 date: 2020-05-25
-tags: [CAD, solidworks, KiCad]
+tags: [CAD, solidworks, KiCad, PCB, Electronics]
 header:
-  image: "/project files/Harting Cable/harting cable.jpg"
+  image: "/images/Control PCB.jpg"
 excerpt: "Control PCB used in the Bench top amplifier project to drive the RF circuit and the display PCB"
 mathjax: "true"
 ---
